@@ -5,14 +5,14 @@
     "creators": ["XANqrxyz"],
     "verifier": "XANqrxyz",
     "verification": "https://youtu.be/uv8kUPSgIxQ",
-    "percentToQualify": "100",
+    "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
-    {
-          {
+        {
             "user": "breakfastwrapgd",
             "link": "https://youtu.be/ZkdTRtDRBrI",
             "percent": 100,
             "hz": 240
-    },
-    {
+        }
+    ]
+}
