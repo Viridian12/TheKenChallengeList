@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+          {
+            "user": "breakfastwrapgd",
+            "link": "https://youtu.be/9vF-DDG2FfI",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
